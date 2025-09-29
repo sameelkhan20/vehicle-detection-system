@@ -1,0 +1,14 @@
+# Database Configuration
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=your_password
+DB_NAME=vehicle_detection
+DB_PORT=3306
+
+# Flask Configuration
+FLASK_ENV=production
+SECRET_KEY=your-secret-key-here
+
+# Hugging Face Spaces Configuration
+SPACE_ID=your-username/vehicle-detection-system
+HF_TOKEN=your-huggingface-token
